@@ -15,6 +15,6 @@ sudo apt install -y python3-tk
 
 # Install Pygame using pip
 echo "Installing Pygame..."
-pip3 install pygame
+sudo apt install python3-pygame
 
 echo "All dependencies have been installed successfully!"
